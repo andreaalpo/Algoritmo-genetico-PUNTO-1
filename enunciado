@@ -1,0 +1,11 @@
+encontrar el recorrido más corto para un viajante que debe visitar un conjunto de ciudades
+y regresar a la ciudad de origen. Las ciudades están conectadas por caminos con distintas
+distancias entre ellas.
+
+Descripción del Problema
+Hay un número fijo de ciudades (5 en este caso), y se conocen las distancias entre cada 
+par de ciudades.
+
+-El viajante debe empezar en una ciudad, visitar todas las demás ciudades una sola vez,
+y luego regresar a la ciudad de origen.
+-El objetivo es minimizar la distancia total recorrida.
